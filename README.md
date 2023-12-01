@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working in Data Science and Analytics<br>👯 For the Cosmetics Industry<br>🌱 Currently learning Git and Data Engineering tools <br>💬 Find me on LinkedIn<br>
+🔭 Currently working in Data Science and Analytics<br>👯 For the Cosmetics Industry<br><br>💬 Find me on LinkedIn<br>
 
 
 ## 🌐 Socials:
